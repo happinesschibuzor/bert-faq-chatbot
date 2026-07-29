@@ -35,4 +35,4 @@ This project demonstrates how to build an AI-powered FAQ chatbot using a pre-tra
 
 **Happiness Chibuzor**
 
-AI Automation Engineer | NLP | Transformers | LangChain | LangGraph | Voice AI
+AI Engineer | NLP | Transformers | LangChain | LangGraph | Voice AI
